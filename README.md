@@ -9,7 +9,7 @@
 
 - ✨ I’m a Self-learner, coding enthusiastic, passionate to learn new things 
 
-- 🌱 I’m currently learning **Django and Deep Learning**
+- 🌱 I’m currently learning **Data Analytics and Machine Learning**
 
 - 💬 Ask me about **Machine learning**
 
