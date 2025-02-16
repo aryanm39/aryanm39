@@ -16,7 +16,7 @@
 - 📫 How to reach me **aryanmedhe21@gmail.com**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavbichave&show_icons=true&locale=en&layout=compact" alt="vaibhavbichave" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanm39&show_icons=true&locale=en&layout=compact" alt="aryanm39" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanm39&show_icons=true&locale=en" alt="aryanm39" /></p>
 
