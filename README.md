@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Data Analytics and Machine Learning**
 
-- 💬 Ask me about **Machine learning**
-
 - 📫 How to reach me **aryanmedhe21@gmail.com**
 
 
